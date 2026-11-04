@@ -1,0 +1,8 @@
+{
+  "name": "dong-ho-dem-nguoc",
+  "version": "1.0.0",
+  "description": "Đồng hồ đếm ngược Ban Giám Khảo",
+  "scripts": {
+    "start": "npx --yes serve -s -l $PORT ."
+  }
+}
